@@ -106,3 +106,8 @@ az aks get-credentials --resource-group <resource-group> --name <cluster-name>
       
 ## Criação da Release
 
+
+## apontamento
+
+- https://codeshare.io/gLpERV
+- https://www.youtube.com/watch?v=aPIaN8MNNI4
